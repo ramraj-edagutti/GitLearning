@@ -1,1 +1,1 @@
-This is first line in secondfile.
+This is first line in secondfile. Master rebase.
